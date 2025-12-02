@@ -1,0 +1,70 @@
+"VDS CTA matrix
+
+This matrix is a VDS asset.",,"Further guidance
+
+For guidance on what to do when a label conflicts with user testing results and when to opt for a unique, customized CTA, visit the content guidelines.",,"Key
+
+*CTAs without verbs. Only use in Text Links and Text Link Carets."
+,CTA text,When to use,Notes,Update history
+Discover,"To learn more
+Typically used in promotional contexts",,,
+,Learn more,"To progress to editorial/marketing content, FAQ, Support page, etc",,
+,Learn why,To learn why Verizon has recommended a product or service,,
+,"Check ____ (availability, eligibility, compatibility)",To find out if your situation qualifies,,
+,,,,
+,,,,
+Execute,Active command,,,
+,Add,To select an offer from a PDP,Shop journey,
+,Add to cart,To select a device or accessory to add to cart,Shop journey,
+,Add to wishlist,To select a device or accessory to add to wishlist,Shop journey,
+,Begin secure checkout,"To begin checkout process in which customer shares personal information (shipping address, payment info, etc)",Shop journey,
+,Buy,To progress to a PDP,Shop journey,
+,Cancel,To cancel choice in task or flow,,
+,Details*,"To progress to, or reveal, more details",,
+,Get,To select a service to progress to checkout with,"Shop journey
+See also ""Select""",
+,Get started,"To initiate a multi-step process like trade-in, BYOB or redemption",,
+,Offer details,"To progress to, or reveal, more details about an offer",,
+,Pre-order,To progress to a PDP of an item not in stock,Shop journey,
+,Redeem,To progress to a PDP or offer interstitial page,,
+,Register,To sign up for a Verizon online account,,
+,Review details,"To progress to, or reveal, more details",,
+,Save,"To submit entered personal information (change password, security settings, etc)",,
+,Select,To select a service to progress to checkout with,"Shop journey
+See also ""Get""",
+,Shop now,To progress to a category LP or product grid page,Shop journey,
+,Submit,To submit entered data,,
+,,,,
+Navigate,Manage whereabouts/view,,,
+,Back,To navigate to the previous screen,,
+,Continue,"To proceed forward after making a selection on the screen (such as choose or decline device protection, select a device you'd like to trade in, pick a color, etc)","- Not to be confused with ""Next""
+",
+,Go to [name of destination],To navigate elsewhere,,
+,Next,To proceed forward without making any selection on the screen beforehand,"- Not to be confused with ""Continue""",
+,Show all,To expand list completely ,,
+,Show more,To expand list partly,,
+,Sign in,(In VCG contexts) To sign into an existing account,,
+,Sign out,(In VCG contexts) To sign out of an existing account,,
+,,,,
+Respond,An answer to a question,,,
+,Done,"To close flow after completing a task, no further action is required","-  Returns customer to origin
+- Should be featured on pages that are a hub for launching tasks (ex. Account security screen with a list of protection features a user can click to turn on) or pages that instruct customer to do something offline (ex. Check your email to verify).
+- Not to be confused with ""Cancel,"" ""Save"" or ""Got it""
+- For informational pages (that are not collecting data from the customer), use the browser's back button",
+,Got it,To signal understanding and close after reviewing info (when no consent is legally required),"- Returns customer to origin
+- Not to be confused with ""Cancel,"" ""Save"" or ""Got it""
+- ""Got it"" is most conversational than ""Done""",
+,No,To answer in the negative,,
+,No thanks,To decline a promotion or recommendation,,
+,Not now,To delay/postpone a choice,,
+,Okay,To signal consent,,
+,Yes,To answer in the affirmative,,
+,,,,
+Legal,Engaging with legalese,,,
+,Accept,To agree to legal,,
+,Agree and continue,"To accept an agreement (Device Payment, Employee Phone Program, 5G Home Internet)","- Accepting notices (ex. Device Protection) are ""Continue""",
+,Decline,To decline a legal agreement,,
+,Terms*,To progress to legal conditions that need to be met,,
+,,,,
+Avoid,Do not use,,,
+,Click here,"This language is vague, bad for accessibility and makes content wordier than it needs to be. Instead, write labels that tell customers what they are doing or where the link will take them.",,
